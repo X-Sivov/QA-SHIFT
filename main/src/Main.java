@@ -1,9 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
-        System.out.println("POKA");
-        System.out.println("9886575436");
-        System.out.println("9886543543524575436");
-        System.out.println("bgfsdgfd");
+        System.out.println("Hello worl4654453!");
+        System.out.println("5434 54324!");
+        System.out.println("павыпа равпавпвав!");
     }
 }
