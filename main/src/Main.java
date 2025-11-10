@@ -4,5 +4,6 @@ public class Main {
         System.out.println("Приложение для поиска животных");
         System.out.println("Приложение для поиска котят");
         System.out.println("Приложение для поиска птиц");
+        System.out.println("Приложение для поиска щеноков");
     }
 }
